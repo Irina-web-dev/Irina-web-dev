@@ -2,7 +2,7 @@
 
 - 📈 I’m a Frontend Developer with background in banking and master's degree in project management.
 - 🎓 I’m currently working on @Technigo's coding bootcamp (graduating in June 2021).
-- 🌱 I speak 4 languages: English, Latvia, Russian and a little bit of Swedish
+- 🌱 I speak 4 languages: English, Latvian, Russian and a little bit of Swedish
 - 🐱‍💻 Check out my [Portfolio](https://irina-jekabsone-portfolio.netlify.app/)
 - 💬 Let´s connect on [LinkedIn](https://www.linkedin.com/in/irina-j%C4%93kabsone-79742243/)
 
