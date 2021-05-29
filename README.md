@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi, I´m Irina 👋 
 
-<!--
-**Irina-web-dev/Irina-web-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 📈 I’m a Frontend Developer with background in banking and master's degree in project management.
+- 🌱 I’m currently working on @Technigo's coding bootcamp (graduating in June 2021).
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐱‍💻 Check out my [Portfolio](https://irina-jekabsone-portfolio.netlify.app/)
+- 💬 Let´s connect on [LinkedIn](https://www.linkedin.com/in/irina-j%C4%93kabsone-79742243/)
+
+What I've learnt so far ✨
+
+JavaScript
+React
+React Native
+Node.js
+Redux
+MongoDB
+
+What I'm learning now 🤔
+
+TypeScript
+
+- 🧘 Fun fact: This is me relaxing after 2 intense days of coding 👇👇👇
+![IMG_2466](https://user-images.githubusercontent.com/73911558/120084966-c8d60100-c0d4-11eb-8dc4-f6810ea825cb.jpg)
