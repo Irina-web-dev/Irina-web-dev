@@ -8,7 +8,7 @@
 
 ### ✨ What I've learnt so far: JavaScript, React, Redux, React Native, Node.js, MongoDB
 
-### 🤔 What I'm learning now: TypeScript
+### 🤔 What I want to learn next: TypeScript
 
 
 <div align="center">
