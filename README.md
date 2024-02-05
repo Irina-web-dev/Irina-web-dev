@@ -6,9 +6,7 @@
 - 🐱‍💻 Check out my [Portfolio](https://irina-jekabsone-portfolio.netlify.app/)
 - 💬 Let´s connect on [LinkedIn](https://www.linkedin.com/in/irina-j%C4%93kabsone-79742243/)
 
-### ✨ What I've learnt so far: JavaScript, React, Redux, React Native, Node.js, MongoDB
-
-### 🤔 What I want to learn next: TypeScript
+### ✨ What I've learnt so far: JavaScript, React, Redux, React Native, Node.js, MongoDB, TypeScript, GraphQL
 
 
 <div align="center">
